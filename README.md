@@ -1,7 +1,7 @@
 # ![https://mmoreta.com](https://raw.githubusercontent.com/mmoretaoficial/mmoretaoficial/master/favicon.png) Hello, we are a great team.👋
 ### Software development company
 
-![https://github.com/mmoretaoficial](https://raw.githubusercontent.com/mmoretaoficial/mmoretaoficial/master/bg_screen-saver.png)
+![https://github.com/mmoretaoficial](https://raw.githubusercontent.com/mmoretaoficial/mmoretaoficial/master/logo_banner.png)
 
 About us.
 
